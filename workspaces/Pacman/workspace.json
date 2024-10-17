@@ -1,14 +1,14 @@
 {
   "description": "Pacman",
   "docker_registry": "https://index.docker.io/v1/",
-  "categories": [
-    "Games"
-  ],
   "image_src": "pacman.png",
   "name": "astrahle/pacman:latest",
   "run_config": {
     "hostname": "kasm"
   },
+  "categories": [
+    "Games"
+  ],
   "friendly_name": "Pacman",
   "architecture": [
     "arm64"

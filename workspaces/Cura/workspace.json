@@ -1,14 +1,14 @@
 {
   "description": "3D printing software",
   "docker_registry": "https://index.docker.io/v1/",
-  "categories": [
-    "Productivity"
-  ],
   "image_src": "cura.png",
   "name": "astrahle/cura:latest",
   "run_config": {
     "hostname": "kasm"
   },
+  "categories": [
+    "Productivity"
+  ],
   "friendly_name": "Cura",
   "architecture": [
     "arm64"

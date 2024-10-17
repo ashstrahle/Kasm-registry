@@ -1,14 +1,14 @@
 {
   "description": "Personal photo management",
   "docker_registry": "https://index.docker.io/v1/",
-  "categories": [
-    "Multimedia"
-  ],
   "image_src": "shotwell.png",
   "name": "astrahle/shotwell:latest",
   "run_config": {
     "hostname": "kasm"
   },
+  "categories": [
+    "Multimedia"
+  ],
   "friendly_name": "Shotwell",
   "architecture": [
     "arm64"

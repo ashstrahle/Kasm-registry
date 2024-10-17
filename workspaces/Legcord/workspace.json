@@ -1,14 +1,14 @@
 {
   "description": "Legcord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay",
   "docker_registry": "https://index.docker.io/v1/",
-  "categories": [
-    "Communication"
-  ],
   "image_src": "ac_plug_colored.png",
   "name": "astrahle/legcord:latest",
   "run_config": {
     "hostname": "kasm"
   },
+  "categories": [
+    "Communication"
+  ],
   "friendly_name": "Legcord",
   "architecture": [
     "arm64"
