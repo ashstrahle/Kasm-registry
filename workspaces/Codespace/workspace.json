@@ -1,16 +1,16 @@
 {
   "description": "Ubuntu Codespace Environment",
   "docker_registry": "https://index.docker.io/v1/",
-  "categories": [
-    "Desktop",
-    "Development"
-  ],
   "image_src": "docker-ubuntu.png",
   "name": "astrahle/ubuntu-codespace:latest",
   "run_config": {
     "hostname": "kasm",
     "user": "root"
   },
+  "categories": [
+    "Desktop",
+    "Development"
+  ],
   "friendly_name": "Codespace",
   "architecture": [
     "arm64"
